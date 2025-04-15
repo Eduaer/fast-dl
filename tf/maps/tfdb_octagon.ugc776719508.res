@@ -17,5 +17,5 @@
 	"models/custom/dodgeball/nuke/nuke.mdl"                     "file"
 	"models/custom/dodgeball/nuke/nuke.phy"                     "file"
 	"models/custom/dodgeball/nuke/nuke.sw.vtx"                  "file"
-	"models/custom/dodgeball/nuke/nuke.vvd"                     "file"
+	"models/custom/dodgeball/nuke/nuke.vvd"   "file"
 }
